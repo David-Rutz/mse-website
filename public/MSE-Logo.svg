@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1140 520" width="100%" height="100%" fill="none">
+  <!-- Brand Colors: Navy: #0E436B, Green: #71A538 -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&amp;display=swap');
+      .navy-fill { fill: #0E436B; }
+      .green-fill { fill: #71A538; }
+      .mse-title {
+        font-family: 'Montserrat', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-weight: 900;
+      }
+      .mse-subtitle {
+        font-family: 'Montserrat', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+
+  <g id="mse-logo-mark" transform="translate(20, 0)">
+    <!-- 1. GREEN LEAF CLUSTER & ARCHING STEM (Top Left) -->
+    <!-- Stem arching from body up to leaves -->
+    <path d="M125,245 C95,215 70,165 72,118 C73,95 85,75 98,62 C103,57 106,58 103,64 C92,85 90,125 118,175 C132,200 148,225 158,245 C146,248 135,247 125,245 Z" fill="#71A538" />
+
+    <!-- Leaf 1 (Topmost, pointing up-left) -->
+    <path d="M96,62 C88,40 100,22 108,22 C116,22 115,42 102,62 C100,65 97,65 96,62 Z" fill="#71A538" />
+
+    <!-- Leaf 2 (Small upper left leaf) -->
+    <path d="M85,78 C65,68 62,50 72,48 C83,46 92,62 88,80 C87,82 85,80 85,78 Z" fill="#71A538" />
+
+    <!-- Leaf 3 (Large lower leaf curving down-left) -->
+    <path d="M102,108 C68,110 52,142 56,178 C60,215 90,240 128,242 C120,225 108,195 98,165 C88,135 92,118 102,108 Z" fill="#71A538" />
+    
+    <!-- Delicate leaf vein/hollow accent -->
+    <path d="M122,236 C92,230 72,208 68,175 C65,148 76,125 98,116 C90,132 86,155 94,182 C102,208 112,224 122,236 Z" fill="#ffffff" opacity="0.9" />
+
+    <!-- 2. FIGURE: HEAD (Navy Circle) -->
+    <circle cx="225" cy="98" r="24" fill="#0E436B" />
+
+    <!-- 3. GREEN BODY ACCENT & RIGHT ARM SWOOSH -->
+    <!-- Green spine & upper-back contour -->
+    <path d="M228,128 C242,142 258,168 262,205 C264,222 258,242 245,262 C252,242 260,215 254,185 C248,155 235,138 228,128 Z" fill="#71A538" />
+
+    <!-- Right arm energetic green arc reaching upward -->
+    <path d="M255,160 C275,120 305,68 350,22 C340,38 318,85 300,128 C288,156 272,185 258,212 C254,195 254,178 255,160 Z" fill="#71A538" />
+
+    <!-- Right green outer wave/flourish -->
+    <path d="M335,85 C345,105 358,135 365,175 C372,215 362,260 340,300 C352,265 358,225 352,188 C346,152 336,120 326,95 C328,90 332,86 335,85 Z" fill="#71A538" />
+
+    <!-- 4. NAVY FIGURE BODY & LEAPING POSE -->
+    <!-- Left arm reaching out toward the leaves -->
+    <path d="M210,135 C175,138 128,136 78,132 C72,131 70,126 78,124 C120,115 170,118 206,126 Z" fill="#0E436B" />
+
+    <!-- Main Torso & Chest -->
+    <path d="M206,126 C225,130 242,145 248,168 C252,185 248,208 238,235 C230,222 215,208 198,198 C185,190 178,185 185,172 C192,158 200,145 206,126 Z" fill="#0E436B" />
+
+    <!-- Right Arm reaching up -->
+    <path d="M242,142 C265,108 295,62 336,25 C340,22 342,26 338,30 C302,72 272,122 252,162 Z" fill="#0E436B" />
+
+    <!-- 5. FLOWING SASH / WAVE RIBBONS (Waist & Dynamic Accents) -->
+    <!-- Top Navy flowing wave band wrapping across waist to legs -->
+    <path d="M165,308 C175,280 205,248 245,230 C285,212 328,218 368,232 C382,237 388,248 375,252 C335,265 292,268 252,282 C215,295 185,325 168,368 C164,360 162,335 165,308 Z" fill="#0E436B" />
+
+    <!-- Secondary Navy wave swoosh -->
+    <path d="M190,325 C230,305 275,295 320,290 C355,286 375,295 382,312 C384,318 378,322 368,320 C325,310 282,320 248,345 C222,365 202,398 185,435 C180,410 182,365 190,325 Z" fill="#0E436B" />
+
+    <!-- 6. ATHLETIC LEGS & FEET -->
+    <!-- Forward Leg extending down with pointed ballerina foot -->
+    <path d="M218,290 C225,325 220,365 198,405 C185,428 165,455 142,488 C138,494 130,495 132,486 C136,468 142,448 148,432 C158,408 172,382 185,355 C198,328 208,308 218,290 Z" fill="#0E436B" />
+
+    <!-- Rear Leg bent dynamically at knee in stride -->
+    <path d="M248,272 C275,295 305,325 335,365 C345,378 348,388 342,392 C335,396 325,390 315,378 C290,348 268,325 242,305 C235,300 240,285 248,272 Z" fill="#0E436B" />
+    
+    <!-- Foot and calf of back leg -->
+    <path d="M338,368 C352,382 355,400 348,412 C342,422 328,426 322,420 C315,412 320,398 328,385 C332,378 335,372 338,368 Z" fill="#0E436B" />
+    
+    <!-- Foot tip of front leg -->
+    <path d="M142,488 C135,502 128,508 122,504 C118,500 120,490 128,480 C132,475 138,478 142,488 Z" fill="#0E436B" />
+  </g>
+
+  <!-- TYPOGRAPHY / WORDMARK (Right) -->
+  <g id="mse-wordmark" transform="translate(430, 0)">
+    <!-- Main "MSE" Letterforms -->
+    <text
+      x="0"
+      y="275"
+      class="mse-title navy-fill"
+      font-size="215"
+      font-weight="900"
+      letter-spacing="0.04em"
+    >MSE</text>
+
+    <!-- Subtitle: MASSAGE · SPORT · ERNÄHRUNG -->
+    <text 
+      x="2" 
+      y="348" 
+      class="mse-subtitle navy-fill"
+      font-size="33" 
+      font-weight="800" 
+      letter-spacing="0.14em" 
+    >
+      MASSAGE <tspan class="green-fill" font-weight="900">·</tspan> SPORT <tspan class="green-fill" font-weight="900">·</tspan> ERNÄHRUNG
+    </text>
+  </g>
+</svg>
