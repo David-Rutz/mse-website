@@ -1,0 +1,6 @@
+{
+  "name": "MSE – Massage, Sport & Ernährung",
+  "description": "Massage, Sport und Ernährungsberatung aus einer Hand. Ganzheitliche Betreuung für Regeneration, Fitness, Ernährung und persönliche Ziele.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
